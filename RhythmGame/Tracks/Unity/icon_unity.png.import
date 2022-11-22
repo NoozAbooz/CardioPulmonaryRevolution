@@ -2,11 +2,16 @@
 
 importer="texture"
 type="StreamTexture"
-valid=false
+path="res://.import/icon_unity.png-e8bcf62e9838725e909fe0f3237bb627.stex"
+metadata={
+"vram_texture": false
+}
 
 [deps]
 
 source_file="res://RhythmGame/Tracks/Unity/icon_unity.png"
+dest_files=[ "res://.import/icon_unity.png-e8bcf62e9838725e909fe0f3237bb627.stex" ]
+
 [params]
 
 compress/mode=0

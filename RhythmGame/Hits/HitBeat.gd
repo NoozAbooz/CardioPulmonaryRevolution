@@ -1,3 +1,13 @@
+--- Debugging process started ---
+Godot Engine v3.5.1.stable.official.6fed1ffa3 - https://godotengine.org
+OpenGL ES 3.0 Renderer: Apple M1
+Async. shader compilation: OFF
+ 
+Registered camera FaceTime HD Camera with id 1 position 0 at index 0
+--- Debugging process stopped ---
+Switch Scene Tab
+Switch Scene Tab
+Switch Scene Tab
 extends Node2D
 
 var _score_perfect := 10

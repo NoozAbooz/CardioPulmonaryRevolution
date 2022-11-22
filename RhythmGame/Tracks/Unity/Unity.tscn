@@ -24,7 +24,7 @@ _data = {
 "points": PoolVector2Array( 0, 0, 0, 0, -0.25, 0, 0, 0, 0, 0, 288, 0 )
 }
 
-[node name="Disco Lounge" type="Node2D"]
+[node name="Unity" type="Node2D"]
 
 [node name="Intro" type="Node2D" parent="."]
 visible = false

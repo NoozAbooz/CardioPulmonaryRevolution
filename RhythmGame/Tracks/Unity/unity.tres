@@ -5,8 +5,8 @@
 
 [resource]
 script = ExtResource( 1 )
-label = "Disco Lounge"
-stream = "res://RhythmGame/Tracks/DiscoLounge/DiscoLounge.ogg"
-bpm = 110
+label = "Unity"
+stream = "res://RhythmGame/Tracks/Unity/Unity.ogg"
+bpm = 105
 icon = ExtResource( 2 )
-artist = "Kevin MacLeod"
+artist = "TheFatRat"
