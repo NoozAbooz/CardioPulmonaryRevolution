@@ -4,13 +4,6 @@
 [ext_resource path="res://RhythmGame/Editor/PlacerHitBeat.tscn" type="PackedScene" id=4]
 [ext_resource path="res://RhythmGame/Editor/PlacerHitRoller.tscn" type="PackedScene" id=5]
 
-
-
-
-
-
-
-
 [sub_resource type="Curve2D" id=1]
 _data = {
 "points": PoolVector2Array( 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -384 )
